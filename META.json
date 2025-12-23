@@ -1,5 +1,5 @@
 {
-	"version" : "0.0.6",
+	"version" : "0.0.7",
 	"name"    : "File-Find-Mason",
 	"author"  : ["Brian Blackmore <brian@mediaalpha.com>"],
 	"abstract": "Quickly identify Mason files in Perl repositories",

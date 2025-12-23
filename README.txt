@@ -1,11 +1,12 @@
-"File::Find::Mason" Version 0.0.6
+"File::Find::Mason" Version 0.0.7
 
 Abstract:
 ---------
 This package provides a File::Find wanted() subroutine to aide identification of Mason template files and a commandline tool for use in scripts.
 
-What's new in version 0.0.6:
+What's new in version 0.0.7:
 ----------------------------
+* Kwalitee fixes
 * Code backported to Perl 5.16.3
 
 Copyright & License:
