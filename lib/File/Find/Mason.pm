@@ -94,7 +94,7 @@ Version 0.0.7
 
 =head1 DESCRIPTION
 
-Mason templates may have multiple extensions depending on their use, particularly for HTTP APIs.  Some Mason templates may be very brief and contain only static HTML, whereas others may contain only a single Mason component or comment indicating their purpose.  This module should aide quickly finding all or some such Mason file.
+Mason templates may have multiple extensions depending on their use, particularly for HTTP APIs.  Some Mason templates may be very brief and contain only static HTML, whereas others may contain only a single Mason component or comment indicating their purpose.  This module should aid quickly finding all or some such Mason file.
 
 =head2 Basic usage
 
@@ -116,7 +116,7 @@ When provided with no C<$options{wanted}>, the function will return true when C<
 
 =head2 Mason file identification
 
-A file is consider a valid Mason file when:
+A file is considered a valid Mason file when:
 
 =over
 
