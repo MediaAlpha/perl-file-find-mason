@@ -94,7 +94,7 @@ Version 0.0.7
 
 =head1 DESCRIPTION
 
-Mason templates may have multiple extensions depending on their use, particularly for HTTP APIs.  Some Mason templates may be very brief and contain only static HTML, whereas others may contain only a single Mason component or comment indicating their purpose.  This module should aid quickly finding all or some such Mason file.
+Mason templates may have multiple extensions depending on their use, particularly for HTTP APIs.  Some Mason templates may be very brief and contain only static HTML, whereas others may contain only a single Mason component or comment indicating their purpose.  This module should aid quickly finding all or some such Mason files.
 
 =head2 Basic usage
 
